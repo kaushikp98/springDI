@@ -1,4 +1,4 @@
-package com.baeldung.spring;
+package com.techalpine.spring;
 
 public class Country {
 
